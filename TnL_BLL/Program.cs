@@ -11,6 +11,7 @@ namespace TnL_BLL
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
